@@ -4,5 +4,3 @@ Find the basic landing page that I have done after doing my Andela Kickstart pro
 
 View here:https://github.com/Nancy-Sabrina-Ishimwe/landing-pagejob
                
-               or
-               http://127.0.0.1:5501/landing-page-jobmain/index.html
